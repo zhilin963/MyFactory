@@ -9,7 +9,7 @@ Android mobile application with SQLite Database.
 <a name="feat"></a>
 ## 2.Features
 This application meets the needs of end users through the following four main features:  
-#a.Login
--Monitoring
--Maintenance
--3D Show
+### a.Login
+### b.Monitoring
+### c.Maintenance
+### d.3D Show
