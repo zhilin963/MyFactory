@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iFactory</string>
+    <string name="title_activity_factory">iFactory</string>   
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">♥♥♥Welcome to iFactory World♥♥♥</string>
+    <string name="login">☆Sign in☆</string>
+    <string name="monitoring">☆Monitor☆</string>
+    <string name="repairing">☆Repair☆</string>
+    <string name="show">☆3D Show☆</string>
+    <string name="title_activity_login">iFactory Login</string>
+    <string name="title_activity_monitor">iFactory Monitor</string>
+    <string name="title_activity_repair">iFactory Repair</string>
+    <string name="title_activity_show">iFactory Show</string>
+    <string name="signin">Sign in</string>
+    <string name="username">Username:</string>
+    <string name="pwd">Password:</string>
+    <string name="wait">Please wait ... </string>
+    <string name="falsemessage">Invalid username or password, please check again (╯﹏╰)</string>
+    <string name="details">show it</string>
+    <string name="navigation">find it</string>
+    <string name="title_activity_details">Robotic Arm 1096</string>
+    <string name="title_activity_detail2">Robotic Arm 1089</string>
+    <string name="title_activity_detail3">Robotic Arm 1077</string>
+    <string name="title_activity_navigation">iFactory Navigation</string>
+    <string name="title_activity_aboutme">About Me</string>
+    <string name="aboutme">☆Account☆</string>
+    <string name="contact">contact</string>
+    <string name="title_activity_contact">iFactory Contact</string>
+    <string name="to">To:</string>
+    <string name="content">Content:</string>
+	<string name="send">☆Send☆</string>
+	<string name="changeview">actual state</string>
+</resources>

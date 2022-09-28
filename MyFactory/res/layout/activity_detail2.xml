@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.myfactory.Detail2Activity"
+    android:background="@drawable/background" >
+	<LinearLayout 
+	    	android:id="@+id/photo2"
+	    	android:layout_width="match_parent"
+   			android:layout_height="wrap_content"
+   			android:orientation="horizontal">
+    <ImageView
+            android:id="@+id/ra1089"
+            android:src="@drawable/detail2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight=".1"/>
+	
+  
+	    <Button 
+	            android:id="@+id/viewButton2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/buttonshape"                
+                android:text="@string/changeview"
+                android:textColor="#FCFCFC"
+                android:layout_marginBottom="18sp"
+                android:layout_weight=".3"
+                android:layout_gravity="bottom"
+                android:layout_marginLeft="20sp"
+                android:onClick="changeView2"/>
+	 
+	</LinearLayout>
+</RelativeLayout>
