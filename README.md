@@ -9,7 +9,7 @@ Android mobile application with SQLite Database.
 <a name="feat"></a>
 ## 2.Features
 This application provides the following four features:  
-### -Login
+* Login
 provide registration and login functionality.
 ### -Monitoring
 monitor the operation of each device in real time, record their real-time status, view and locate the devices through the cameras in the factory.
