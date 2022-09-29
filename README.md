@@ -17,3 +17,5 @@ This application provides the following four features:
 : when a device failure occurred, the system records its status and notifies the end user. With this app users get the details of the device and notify the maintenance personnel.
 * **3D View**
 : provides a 3D view of the factory building, including the exterior structure and the interior layout.
+
+![image](https://github.com/zhilin963/MyFactory/blob/main/IMG/iFactory.png)
