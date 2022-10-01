@@ -32,7 +32,8 @@ This application provides the following four features:
 * The building structure of the factory, the location and status of all devices are visualized on the Android terminal, which also allows the user to navigate.
 <div align=center><img width="500" height="400" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/er-model.png" />  </div>
 
-## 4. Workflows
+## 4. Activity Diagram
+<div align=center><img width="300" height="600" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/activity.png" />  </div>  
 
 ## 5. GUI Desigen  
 * **Login Page**
