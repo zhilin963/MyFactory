@@ -28,7 +28,7 @@ This application provides the following four features:
 
 ## 3.Entity Relationship Model
 * The system records the relevant attributes of the user, including name, role, address, password, etc.
-* The user can monitor all relevant data of the devices in the factory (temperature, online/offline, voltage, etc.).
+* All relevant data of the devices in the factory are recorded in real time(temperature, online/offline, voltage, etc.).
 * The building structure of the factory, the location and status of all devices are visualized on the Android terminal, which also allows the user to navigate.
 <div align=center><img width="500" height="400" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/er-model.png" />  </div>
 
