@@ -33,7 +33,7 @@ This application provides the following four features:
 <div align=center><img width="500" height="400" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/er-model.png" />  </div>
 
 ## 4. Activity Diagram
-<div align=center><img width="400" height="600" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/activity.png" />  </div>  
+<div align=center><img width="500" height="600" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/activity.png" />  </div>  
 
 ## 5. GUI Desigen  
 * **Login Page**
