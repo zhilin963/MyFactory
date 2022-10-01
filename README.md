@@ -12,7 +12,7 @@ Android mobile application with SQLite Database.
 ## 2.Features
 This application provides the following four features:  
 
-<div align=center><img width="500" height="400" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/features.png" />  </div>  
+<div align=center><img width="500" height="400" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/feature.png" />  </div>  
 
 * **Login**
 : provides registration and login functionality.  
