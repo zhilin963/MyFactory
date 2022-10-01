@@ -15,10 +15,10 @@ This application provides the following four features:
 <div align=center><img width="500" height="400" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/feature.png" />  </div>  
 
 * **Login**
-: provides registration and login functionality.  
+: provides registration and login functionality for users.  
  
 * **Monitoring**
-: monitors the operation of each device in real time, records their real-time status. User can view and locate the devices through the cameras in the factory.  
+: monitors the operation of each device in real time, records the real-time status. Users can view and locate the devices through the cameras in the factory.  
    
 * **Maintenance**
 : in case of device failure, the user receives emergency notifications and checks the recent status through the system, then cotacts the maintenance personnel.  
