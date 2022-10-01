@@ -21,7 +21,7 @@ This application provides the following four features:
 : monitors the operation of each device in real time, records the real-time status. Users can view and locate the devices through the cameras in the factory.  
    
 * **Maintenance**
-: in case of device failure, the user receives emergency notifications and checks the recent status through the system, then cotacts the maintenance personnel.  
+: in case of device failure, the user receives emergency notifications and checks the recent status through the system, then contacts the maintenance personnel.  
 
 * **3D View**
 : provides a 3D view of the factory building, including the exterior structure and the interior layout.  
