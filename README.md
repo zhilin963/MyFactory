@@ -18,10 +18,10 @@ This application provides the following four features:
 : provides registration and login functionality.  
  
 * **Monitoring**
-: monitors the operation of each device in real time, record their real-time status, view and locate the devices through the cameras in the factory.  
+: monitors the operation of each device in real time, records their real-time status. User can view and locate the devices through the cameras in the factory.  
    
 * **Maintenance**
-: in case of device failure, the user receives emergency notifications form this system, then cotacts the maintenance personnel.  
+: in case of device failure, the user receives emergency notifications and checks the recent status through the system, then cotacts the maintenance personnel.  
 
 * **3D View**
 : provides a 3D view of the factory building, including the exterior structure and the interior layout.  
