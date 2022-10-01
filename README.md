@@ -4,7 +4,7 @@ Android mobile application with SQLite Database.
 
 <a name="desc"></a>
 ## 1.Description
-**My Factory** is an Android mobile application, mainly used in a smart factory, to monitor devices in real time, and send alerts to end users in the case of device failure.  
+**My Factory** is an Android mobile application, mainly used in a smart factory, to monitor devices in real time, and send alerts to end users in case of device failure.  
 
 <div align=center><img width="600" height="400" src="https://github.com/zhilin963/MyFactory/blob/main/IMG/iFactory.png" />  </div>    
 
